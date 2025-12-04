@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Mohammed Abdelnaser
 
-Full-Stack Developer passionate about building modern web apps with React, Node.js, and AI integrations. Currently focusing on healthcare tech like dental clinic management systems. Open to opportunities in Egypt or remote! 🚀
+Full-Stack Developer passionate about building modern web apps with React, Node.js, and AI integrations. Open to opportunities in Egypt or remote! 🚀
 
 ## 🛠️ Skills
 - **Frontend:** React, TypeScript, Tailwind CSS, Vite, React Router
 - **Backend:** Node.js, Express, MongoDB, JWT Authentication
 - **Tools:** Git, ESLint, Vercel/Netlify Deployment
-- **Other:** Machine Learning (Python), Responsive Design, API Development
+- **Other:** Responsive Design, API Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
