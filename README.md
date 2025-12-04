@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Abdelnaser
+# 👋 Hi, I'm Mohamed Abdelnasser
 
 Full-Stack Developer passionate about building modern web apps with React, Node.js, and AI integrations. Open to opportunities in Egypt or remote! 🚀
 
