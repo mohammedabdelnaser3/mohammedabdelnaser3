@@ -24,13 +24,6 @@ Full-Stack Developer passionate about building modern web apps with React, Node.
 - **[Event Website](https://github.com/mohammedabdelnaser3/Event-Website)**: Static website for event promotion with registration form (HTML, CSS, JavaScript).
 - **[Math Challenges](https://github.com/mohammedabdelnaser3/Math-Challenges)**: Collection of math problems and solutions (Python scripts for calculations).
 
-## 📊 GitHub Stats
-[![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedabdelnaser3&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabdelnaser3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammedabdelnaser3&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ## 📫 Connect with Me
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-abdelnasser-4861a122a) 
 - Email: mohamedabdelnasser0123@gmail.com
