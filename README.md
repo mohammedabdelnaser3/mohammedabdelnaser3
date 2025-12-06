@@ -16,13 +16,13 @@ Full-Stack Developer passionate about building modern web apps with React, Node.
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
 ## 🔭 Featured Projects
-- **[DentalPro Manager](https://github.com/mohammedabdelnaser3/dentapro-eg)**: Full-stack dental clinic management system with patient dashboard, appointments booking, and payments integration (React, TypeScript, Node.js, Express, MongoDB) – In Progress.
+- **[DentalPro Manager](https://github.com/mohammedabdelnaser3/Clear-Dental-Clinic)**: Full-stack dental clinic management system with patient dashboard, appointments booking, and payments integration (React, TypeScript, Node.js, Express, MongoDB) – In Progress.
 - **[ShopCo E-commerce](https://github.com/mohammedabdelnaser3/ShopCo)**: Responsive e-commerce platform with product catalog, shopping cart, and checkout (React, Tailwind CSS).
-- **[CO2 Prediction ML Model](https://github.com/mohammedabdelnaser3/CO2-prediction)**: Machine learning model to predict CO2 emissions using data analysis (Python, Pandas, Scikit-learn).
+- **[CO2 Prediction ML Model](https://github.com/mohammedabdelnaser3/CO2-Emissions-Prediction-Model)**: Machine learning model to predict CO2 emissions using data analysis (Python, Pandas, Scikit-learn).
 - **[Tic-Tac-Toe Game](https://github.com/mohammedabdelnaser3/tic-tac-toe)**: Simple interactive Tic-Tac-Toe game (Java).
-- **[Task Management App](https://github.com/mohammedabdelnaser3/Task-Management)**: To-do list app with user authentication and task prioritization (React, Node.js).
-- **[Event Website](https://github.com/mohammedabdelnaser3/Event-Website)**: Static website for event promotion with registration form (HTML, CSS, JavaScript).
-- **[Math Challenges](https://github.com/mohammedabdelnaser3/Math-Challenges)**: Collection of math problems and solutions (Python scripts for calculations).
+- **[Task Management App](https://github.com/mohammedabdelnaser3/Task-Management-Project)**: To-do list app with user authentication and task prioritization (React, Node.js).
+- **[Event Website](https://github.com/mohammedabdelnaser3/Complete-Responsive-Event-Organizer-Website)**: Static website for event promotion with registration form (HTML, CSS, JavaScript).
+- **[Math Challenges](https://github.com/mohammedabdelnaser3/Dynamic-Math-Challenges)**: Collection of math problems and solutions (Python scripts for calculations).
 
 ## 📫 Connect with Me
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohamed-abdelnasser-4861a122a) 
